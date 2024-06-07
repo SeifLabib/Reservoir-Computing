@@ -5,6 +5,8 @@ The report, the presentation, as well the code were all submitted directly to Pr
 The purpose of this repository is solely the provision of the matlab scripts that were responsible in generating the graphs, when testing not only for once, but for an extended period of time and while 
 having a variable changing in order to produce a graph, to see how the performance of the model changes depending on this variable.
 
+There will also be a few [files](https://github.com/SeifLabib/Reservoir-Computing/tree/main/Additional%20files) that might be interesting for the extension of this project, that were originally provided by David Sussillo but not used in this project.
+
 ## Useful references for this project
 - Generating Coherent Patterns of Activity from Chaotic Neural Networks, David Sussillo, L. F. Abott, 2009.
 - daptive Nonlinear System Identification with Echo State Networks, Herbert Jaeger.
